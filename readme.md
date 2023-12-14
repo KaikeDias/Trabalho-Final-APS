@@ -7,41 +7,41 @@
 #### Telas:
 
 
-     Marcas
+     Marcas:
 
 ![Imagem tela marcas](./images/Marcas.png)
 
-     Produtos
+     Produtos:
 
 ![Imagem tela produtos](./images/Produtos.png)
 
-     Itens
+     Itens:
 
 ![Imagem tela itens](./images/itens.png)
      Clientes:
      
 ![Imagem tela Cliente](./images/Clientes.png)
 
-     Vendedores
+     Vendedores:
 
 ![Imagem tela vendedores](./images/Vendedores.png)
 
-     Transportadoras
+     Transportadoras:
 
 ![Imagem tela transportadoras](images/Transportadoras.png)
 
-     Pagamentos com Cartão
+     Pagamentos com Cartão:
 
 ![Imagem tela pagamento com cartao](./images/Pagamentos%20com%20cartao.png)
 
-     Pagamentos em Cheque
+     Pagamentos em Cheque:
 
 ![Imagem tela pagamento emcheque](./images/pagamentos%20com%20cheque.png)
 
-     Notas de Venda
+     Notas de Venda:
 
 ![Imagem tela notas de venda](./images/Notas%20de%20vendas.png)
 
-     Pagamentos
+     Pagamentos:
 
 ![Imagem tela Pagamentos](./images/pagamentos.png)
